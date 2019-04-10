@@ -9,7 +9,7 @@ Player::Player(float x, float y, std::string filename, PLAYER s){
 	x = X();
 	Y(y);
 
-	_tex = new Texture(filename,x,y,20,70);
+	_tex = new Texture(filename,x,y,20,100);
 }
 
 Player::~Player() {}
@@ -38,7 +38,7 @@ void Player::MoveUp(){
 void Player::MoveDown() {
 
 	_y += VEL;
-	if (_y > 530) _y = 530;
+	if (_y > 500) _y = 500;
 }
 
 void Player::AddScore(){

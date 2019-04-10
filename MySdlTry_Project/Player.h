@@ -11,7 +11,7 @@ public:
 	enum PLAYER { left = 1, right = 2 };
 private:
 
-	const float VEL = 15.0f;
+	const float VEL = 20.0f;
 
 	int score = 0;
 

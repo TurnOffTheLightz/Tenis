@@ -1,0 +1,15 @@
+﻿  AssetManager.cpp
+  Ball.cpp
+e:\informatyka\cpp\vsprojects\mysdltry_project\mysdltry_project\ball.cpp(115): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Collision.cpp
+  Entity.cpp
+  Game.cpp
+  Graphics.cpp
+  Handler.cpp
+  Input.cpp
+  main.cpp
+  Player.cpp
+  Texture.cpp
+  Timer.cpp
+  Generating Code...
+  MySdlTry_Project.vcxproj -> E:\informatyka\cpp\VSPROJECTS\MySdlTry_Project\Debug\MySdlTry_Project.exe
